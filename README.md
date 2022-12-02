@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nikhilkaswann
+- 👋 Hi, I’m @Nikhilkaswan
 - 👀 I’m interested in craeting things
 - 🌱 I’m currently at lpu studying cse
 - 💞️ I’m looking to collaborate on any cool project
